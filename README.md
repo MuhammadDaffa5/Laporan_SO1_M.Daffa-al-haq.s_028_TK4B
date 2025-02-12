@@ -13,7 +13,7 @@ A. Alat yang digunakan : <br>
       <img src="https://github.com/user-attachments/assets/849731b3-de66-48eb-a2f3-252e0fe817da" alt="Image" width="200"> <br>
 
    2. flashdisk <br>
-      <img src="https://github.com/user-attachments/assets/8563bc98-f953-423c-a1b9-4eb89d5b7aab" alt="Image" width="200"> <br>
+      <img src="https://github.com/user-attachments/assets/8563bc98-f953-423c-a1b9-4eb89d5b7aab" alt="Image" width="200"> <br> <hr>
 
 B. Percobaan dan analisis : <br>
    1. colokkan flasdisk <br>
@@ -65,7 +65,7 @@ B. Percobaan dan analisis : <br>
   24. lalu saat sudah masuk akan tampil profil akun tekan dan masukkan password yang telah di buat <br>
       <img src="https://github.com/user-attachments/assets/909879af-afd9-4221-80e7-1de6d92c83ee" alt="Image" width="300"> <br>
   25. selesai ubuntu siap digunakan <br>
-      <img src="https://github.com/user-attachments/assets/85d4ef79-84f2-424d-9977-d3b1f17b0f9b" alt="Image" width="300"> <br>
+      <img src="https://github.com/user-attachments/assets/85d4ef79-84f2-424d-9977-d3b1f17b0f9b" alt="Image" width="300"> <br> <hr>
 
 C. Kesimpulan : <br>
    1. Kita dapat mengenal dan memahami langkah-langkah instalasi, dari persiapan awal hingga instalasi selesai <br>
