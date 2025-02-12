@@ -17,9 +17,13 @@ A. Alat yang digunakan : <br>
 
 B. Percobaan dan analisis : <br>
    1. colokkan flasdisk <br>
+      <img src="https://github.com/user-attachments/assets/920f93c4-2c06-4c12-a818-b3f64a0de1ae" alt="Image" width="300"> <br>
    2. hidupkan laptop masuk menu BIOS <br>
+      <img src="https://github.com/user-attachments/assets/21a80c01-f4e5-4e1a-a78d-b1a81bd1440c" alt="Image" width="300"> <br>
    3. tekan f7 lalu pilih boot lalu pilih flashdisk untuk jadi boot utama <br>
+      <img src="https://github.com/user-attachments/assets/22a14c70-2940-4cc8-87b2-c4a131634aed" alt="Image" width="300"> <br>
    4. lalu save and exit <br>
+      <img src="https://github.com/user-attachments/assets/d46b1a1c-e967-48e5-8a99-17cde8873389" alt="Image" width="300"> <br>
    5. pilih try or install ubuntu <br>
       <img src="https://github.com/user-attachments/assets/729d614d-3ead-4084-9d6c-2c561ded2604" alt="Image" width="300"> <br>
    6. pilih bahasa inggris lalu next <br>
@@ -63,5 +67,7 @@ B. Percobaan dan analisis : <br>
   25. selesai ubuntu siap digunakan <br>
       <img src="https://github.com/user-attachments/assets/85d4ef79-84f2-424d-9977-d3b1f17b0f9b" alt="Image" width="300"> <br>
 
-
-
+C. Kesimpulan : <br>
+   1. Kita dapat mengenal dan memahami langkah-langkah instalasi, dari persiapan awal hingga instalasi selesai <br>
+   2. Kita dapat memastikan instalasi agar berjalan lancar <br>
+   3. dapat mengatasi kendala seperti pembagian partisi, bootloader, eror dan sebagainya. <br>
